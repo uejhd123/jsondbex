@@ -1,0 +1,15 @@
+{
+    "country": {
+        "russia": {
+            "Moscow": {
+                "city": {
+                    "krasoyarsk" : {
+                        "data": "01-01-2024",
+                        "cost": "30000руб",
+                        "company": "s7-airlines"
+                    }
+                }
+            }
+        }
+    }
+}
